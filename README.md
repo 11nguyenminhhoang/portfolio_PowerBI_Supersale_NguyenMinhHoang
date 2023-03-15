@@ -1,4 +1,4 @@
-# portfolio_PowerBI_Supersale_NguyenMinhHoang
+# Portfolio_PowerBI_Supersale_NguyenMinhHoang
 I was use a sample data called SuperSale Store - a sales company, and faced issues around business cases: sales / profit and Return of investment...
 Based on that situation, I built Dashboards with Power BI as follows:
 
