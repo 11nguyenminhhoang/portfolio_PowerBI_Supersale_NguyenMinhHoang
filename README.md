@@ -8,7 +8,7 @@ Based on that situation, I built Dashboards with Power BI as follows:
 
 The process I used to generate this report is as follows:
 1. Use Power Query to merge and process excel files into a single file, complying with Schema as shown. Easy to update if new data is available.
-2. Handling cleaning data types, handling date format and creating calculation parameters such as ROI, late/early/on-time delivery...
+2. Process Power Query to handling cleaning data types, handling date format and creating calculation parameters such as ROI, late/early/on-time delivery...
 3. Use Dax and some operations to display data on Power BI.
 
 
